@@ -212,7 +212,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![output](./img/web.png)
+![web](https://user-images.githubusercontent.com/94228215/150675403-11553966-5dd7-457f-924c-e35521c7de39.png)
+![webout1](https://user-images.githubusercontent.com/94228215/150675427-859a4ef1-0dc4-487c-b7d4-13eb3bf9a315.png)
+
 
 ## Result:
 
